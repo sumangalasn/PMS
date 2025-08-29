@@ -1,0 +1,4 @@
+.table-container { margin-top: 10px; }
+.styled-table { width: 50%; border-collapse: collapse; margin-top: 5px; }
+.styled-table th, .styled-table td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+.styled-table th { background-color: #a5a9ad; color: white; }

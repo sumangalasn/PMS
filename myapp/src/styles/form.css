@@ -1,0 +1,4 @@
+.styled-form { display: flex; flex-direction: column; gap: 10px; margin-bottom: 10px; }
+.styled-form input { padding: 10px; border: 1px solid #ccc; border-radius: 4px; }
+.styled-form button { padding: 8px; background: #007bff; color: white; border: none; border-radius: 4px; cursor: pointer; }
+.styled-form button:hover { background: #0056b3; }
